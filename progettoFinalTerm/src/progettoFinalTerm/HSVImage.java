@@ -26,9 +26,9 @@ public class HSVImage {
 
             hsb = Color.RGBtoHSB(red, green, blue, null);
 
-            hsvPixelsH[i][j] = hsb[0];
-            hsvPixelsS[i][j] = hsb[1];
-            hsvPixelsV[i][j] = hsb[2];
+            hsvPixelsH[j][i] = hsb[0];
+            hsvPixelsS[j][i] = hsb[1];
+            hsvPixelsV[j][i] = hsb[2];
         		}
         	}
 
