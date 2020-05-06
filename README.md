@@ -1,2 +1,2 @@
-# Parallel-Computing Histogram-Equalization
-Mid-term project for Parallel Computing
+# Parallel-Computing 
+Project for Parallel Computing
