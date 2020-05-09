@@ -19,8 +19,7 @@ public class PartialMatrixBuilder extends Thread {
     public void run() {
     		for(int i=start;i<end;i++){
 			for(int j=0;j<v[0].length;j++){	
-				v[i][j] = Math.max(0, Math.min(255, Math.round(v[i][j]*255))) ;
-				//System.out.print(I[i][j]+"\n");
+				newV[i][j] = Math.max(0, Math.min(255, Math.round(v[i][j]*255))) ;
 			}	
 		}
     	
