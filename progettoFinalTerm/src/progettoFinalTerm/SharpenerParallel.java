@@ -52,7 +52,7 @@ public class SharpenerParallel {
         partialMatrixBuilders[threads-1] = new PartialMatrixBuilder(v, (threads-1)*length_per_thread, v.length, I);
         launchThreads(threads, partialMatrixBuilders);
        
-        ConvoluteThread[] sonvoluteThreads = new ConvoluteThread[threads];
+        ConvoluteThread[] convoluteThreads = new ConvoluteThread[threads];
         for (int i = 0; i < threads-1; i++) {
             int start_t = i*length_per_thread;
             int end_t = i*length_per_thread + length_per_thread;
