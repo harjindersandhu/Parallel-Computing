@@ -1,0 +1,3 @@
+/Users/sandhuharjinder/CLionProjects/Parallel_OMP_Version/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/sandhuharjinder/CLionProjects/Parallel_OMP_Version/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sandhuharjinder/CLionProjects/Parallel_OMP_Version/cmake-build-debug/CMakeFiles/Parallel_OMP_Version.dir
