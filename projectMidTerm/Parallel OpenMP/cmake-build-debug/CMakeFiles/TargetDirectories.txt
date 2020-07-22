@@ -1,0 +1,3 @@
+/Users/sandhuharjinder/Desktop/progettoMidTerm/Parallel OpenMP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/sandhuharjinder/Desktop/progettoMidTerm/Parallel OpenMP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sandhuharjinder/Desktop/progettoMidTerm/Parallel OpenMP/cmake-build-debug/CMakeFiles/Parallel_OMP_Version.dir
